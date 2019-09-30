@@ -126,14 +126,6 @@
             "directoryId": 5,
             "created":"2019-09-30 17:14:58",
             "updated":"2019-09-30 17:15:58"
-        },
-        { 
-            "id": 10,
-            "name": "Note 10",
-            "note":"Description 10", 
-            "directoryId": 6,
-            "created":"2019-09-30 17:14:58",
-            "updated":"2019-09-30 17:15:58"
         }
     ]
   }
